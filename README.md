@@ -2,7 +2,11 @@
 ![last commit](https://img.shields.io/github/last-commit/aoi-iter/aoi-iter)
 # aoi | Software Engineer
 
-
+![](./profile-cards/0-profile-details.svg)
+![](./profile-cards/1-repos-per-language.svg)
+![](./profile-cards/2-most-commit-language.svg)
+![](./profile-cards/3-stats.svg)
+![](./profile-cards/4-productive-time.svg)
 
 ## MY SKILLS
 ### BUSINESS  
@@ -45,7 +49,7 @@
   - Functional Programming
 
 
-![aoi's GitHub stats](https://github-readme-stats.vercel.app/api?username=aoi-iter&show_icons=true&theme=synthwave)![aoi's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aoi-iter&show_icons=true&theme=synthwave)
+
 
 <p align="center">
     <h2> And more... </h2>
